@@ -1,8 +1,8 @@
 # SFV-Slim
 
-Shrinks a Steam install of **Street Fighter V** for versus and online play (for example with the Polarity rollback mod). Every costume and stage can stay; the files just get smaller.
+Shrinks a Steam install of **Street Fighter V** for versus and online play (tested with Polarity mod)
 
-A typical result is about **46 GB → 13–20 GB**, depending on what you pick.
+A typical result is about **46 GB → 10–20 GB**, depending on what you pick.
 
 This tool contains no game files. It rewrites your own install.
 
