@@ -9,7 +9,7 @@ This tool contains no game files. It rewrites your own install.
 ## Use
 
 1. Download `SFV-Slim.exe` from [Releases](../../releases) (no Python needed).
-2. Make a folder called `SFV-Slim` inside your `StreetFighterV` game folder, and put the exe in it.
+2. Put the exe into the `StreetFighterV` game folder.
 3. Close the game and run `SFV-Slim.exe`. It asks a few questions, shows a summary, and changes nothing until you confirm.
 
 Windows may say it "protected your PC", because the exe isn't signed. Click **More info → Run anyway**.
